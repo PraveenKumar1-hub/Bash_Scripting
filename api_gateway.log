@@ -1,0 +1,4 @@
+2026-07-19 10:00:05 INFO IP=192.168.1.50 Status=200 URL=http://old.api.internal/v1/users
+2026-07-19 10:00:06 CRITICAL IP=192.168.1.99 Status=500 URL=http://old.api.internal/v1/pay
+2026-07-19 10:00:07 WARN IP=10.0.0.12 Status=401 URL=http://old.api.internal/v1/auth
+2026-07-19 10:00:08 CRITICAL IP=192.168.1.99 Status=500 URL=http://old.api.internal/v1/pay
